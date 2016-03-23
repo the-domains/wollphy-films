@@ -1,7 +1,7 @@
 name: Wollphy Films
 favicon: null
-layout_spectrum: 0.7225349238142371
-typography_spectrum: 0.4059046939946711
+layout_spectrum: 0
+typography_spectrum: 0.03294
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.5586167175788432
-  lightness: 0.8320933161303401
-  saturation: 0.7775746064726263
-  rhythmicContrast: 0.8634672339539975
+    - '#111111'
+    - '#606060'
+    - '#7c7c7c'
+    - '#aeaeae'
+    - '#ffffff'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
