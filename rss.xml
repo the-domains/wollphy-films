@@ -4,7 +4,7 @@
         <description><![CDATA[Wollphy Films]]></description>
         <link>https://thegrid.ai/wollphy-films/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 17:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 17:21:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wollphy-films/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -29,17 +29,17 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fc7c9da-0341-4de8-bdc6-b039ccdfc9af.jpg" alt="" title="" />]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fc7c9da-0341-4de8-bdc6-b039ccdfc9af.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/wollphy-films/8a768693-c80b-4d9d-85cf-29a215384106/index.html</link>
             <guid isPermaLink="false">8a768693-c80b-4d9d-85cf-29a215384106</guid>
-            <pubDate>Wed, 23 Mar 2016 17:18:36 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2016 17:20:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5619071-8351-4199-9ba0-b05957620d6e.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/wollphy-films/faaa4844-1203-4083-b1a5-adf74795ddd9/index.html</link>
             <guid isPermaLink="false">faaa4844-1203-4083-b1a5-adf74795ddd9</guid>
-            <pubDate>Wed, 23 Mar 2016 17:18:31 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2016 17:21:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
